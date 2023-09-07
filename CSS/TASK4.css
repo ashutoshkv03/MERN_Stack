@@ -42,5 +42,4 @@ body {
 
 .block:hover {
     transform: scale(1.1);
-    background-color: black;
 }
